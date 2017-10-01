@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="standard_small_margin">8dp</dimen>
+
+    <dimen name="text_headlines">24sp</dimen>
+    <dimen name="text_title">21sp</dimen>
+</resources>
